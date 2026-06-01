@@ -5,7 +5,7 @@ of ultrasound image sequences.
 
 Webcam only. Two gestures. Open source.
 
-<video src="gsdemo.mp4" autoplay loop muted playsinline width="100%"></video>
+[![GestureScroll Demo](https://img.youtube.com/vi/VCTbd_2xli0/maxresdefault.jpg)](https://youtu.be/VCTbd_2xli0)
 
 ---
 
